@@ -1,3 +1,3 @@
-#demo des
+#demo description
 
 learning.
